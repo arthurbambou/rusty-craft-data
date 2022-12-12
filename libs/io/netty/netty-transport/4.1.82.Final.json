@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar",
+                "sha1": "e431a218d91acb6476ccad5f5aafde50aa3945ca",
+                "size": 485752,
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-transport:4.1.82.Final"
+    }
+]

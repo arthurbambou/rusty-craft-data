@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/realms/1.8.15/realms-1.8.15.jar",
+                "sha1": "4018d062bebc79f1c9a452a5c5dc581ac10b06b7",
+                "size": 1132755,
+                "url": "https://libraries.minecraft.net/com/mojang/realms/1.8.15/realms-1.8.15.jar"
+            }
+        },
+        "name": "com.mojang:realms:1.8.15"
+    }
+]

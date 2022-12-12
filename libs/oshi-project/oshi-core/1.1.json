@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+                "sha1": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+                "size": 30973,
+                "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar"
+            }
+        },
+        "name": "oshi-project:oshi-core:1.1"
+    }
+]

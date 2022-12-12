@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar",
+                "sha1": "644041d1fa96a5d3130a29e8978630d716d76e38",
+                "size": 538569,
+                "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-handler:4.1.82.Final"
+    }
+]

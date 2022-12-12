@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+                "sha1": "da05971b07cbb379d002cf7eaec6a2048211fefc",
+                "size": 4439,
+                "url": "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.jar"
+            }
+        },
+        "name": "com.mojang:patchy:2.2.10"
+    }
+]

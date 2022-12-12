@@ -1,0 +1,144 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+                "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                "size": 88237,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-linux.jar",
+                "sha1": "f906b6439f6daa66001182ea7727e3467a93681b",
+                "size": 476825,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-linux.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-linux",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos.jar",
+                "sha1": "3a57b8911835fb58b5e558d0ca0d28157e263d45",
+                "size": 397196,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-macos",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos-arm64.jar",
+                "sha1": "23d55e7490b57495320f6c9e1936d78fd72c4ef8",
+                "size": 346125,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos-arm64.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-macos-arm64",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar",
+                "sha1": "30a474d0e57193d7bc128849a3ab66bc9316fdb1",
+                "size": 576872,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-x86.jar",
+                "sha1": "888349f7b1be6fbae58bf8edfb9ef12def04c4e3",
+                "size": 520313,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-x86.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows-x86",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+                "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                "size": 88237,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-linux.jar",
+                    "sha1": "f906b6439f6daa66001182ea7727e3467a93681b",
+                    "size": 476825,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos.jar",
+                    "sha1": "3a57b8911835fb58b5e558d0ca0d28157e263d45",
+                    "size": 397196,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar",
+                    "sha1": "30a474d0e57193d7bc128849a3ab66bc9316fdb1",
+                    "size": 576872,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.3.1",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

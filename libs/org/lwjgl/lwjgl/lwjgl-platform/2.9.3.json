@@ -1,0 +1,54 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3.jar",
+                "sha1": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+                "size": 22,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar",
+                    "sha1": "b1eafe80093381c56415731e1d64279e6140bcd0",
+                    "size": 578675,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar"
+                },
+                "natives-osx": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar",
+                    "sha1": "6686cf6ddaa20b4290aa6599a09bc0d17369be05",
+                    "size": 426817,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar",
+                    "sha1": "fbc2afb3e288578e9942578decb6291a490549a0",
+                    "size": 613744,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar"
+                }
+            }
+        },
+        "extract": {
+            "exclude": [
+                "META-INF/"
+            ]
+        },
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.3",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-osx",
+            "windows": "natives-windows"
+        },
+        "rules": [
+            {
+                "action": "allow"
+            },
+            {
+                "action": "disallow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    }
+]

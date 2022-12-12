@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar",
+                "sha1": "9141212b8507ab50a45525b545b39d224614528b",
+                "size": 1745700,
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar"
+            }
+        },
+        "name": "org.apache.logging.log4j:log4j-core:2.14.1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.3/lwjgl_util-2.9.3.jar",
+                "sha1": "751f06b62424da056954c67288fd5c494431e350",
+                "size": 173911,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.3/lwjgl_util-2.9.3.jar"
+            }
+        },
+        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.3",
+        "rules": [
+            {
+                "action": "allow"
+            },
+            {
+                "action": "disallow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    }
+]

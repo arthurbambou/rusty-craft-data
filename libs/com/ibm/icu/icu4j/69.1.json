@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/ibm/icu/icu4j/69.1/icu4j-69.1.jar",
+                "sha1": "ff666ac55986650893aacb9e2e0003538e9799c0",
+                "size": 13356812,
+                "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/69.1/icu4j-69.1.jar"
+            }
+        },
+        "name": "com.ibm.icu:icu4j:69.1"
+    }
+]

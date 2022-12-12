@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/google/code/gson/gson/2.8.8/gson-2.8.8.jar",
+                "sha1": "431fc3cbc0ff81abdbfde070062741089c3ba874",
+                "size": 242047,
+                "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar"
+            }
+        },
+        "name": "com.google.code.gson:gson:2.8.8"
+    }
+]

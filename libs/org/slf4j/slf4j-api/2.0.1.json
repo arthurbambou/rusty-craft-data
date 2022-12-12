@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
+                "sha1": "f48d81adce2abf5ad3cfe463df517952749e03bc",
+                "size": 61388,
+                "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
+            }
+        },
+        "name": "org.slf4j:slf4j-api:2.0.1"
+    }
+]

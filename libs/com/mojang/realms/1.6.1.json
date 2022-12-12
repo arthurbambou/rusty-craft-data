@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/realms/1.6.1/realms-1.6.1.jar",
+                "sha1": "5655f6fb44aece10e5b3ad7cfee3e6936031c068",
+                "size": 298229,
+                "url": "https://libraries.minecraft.net/com/mojang/realms/1.6.1/realms-1.6.1.jar"
+            }
+        },
+        "name": "com.mojang:realms:1.6.1"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/logging/1.0.0/logging-1.0.0.jar",
+                "sha1": "f6ca3b2eee0b80b384e8ed93d368faecb82dfb9b",
+                "size": 15343,
+                "url": "https://libraries.minecraft.net/com/mojang/logging/1.0.0/logging-1.0.0.jar"
+            }
+        },
+        "name": "com.mojang:logging:1.0.0"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar",
+                "sha1": "38f665ae8dcd29032eea31245ba7806bed2e0fa8",
+                "size": 37776,
+                "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-resolver:4.1.82.Final"
+    }
+]

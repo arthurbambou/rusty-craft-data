@@ -1,0 +1,105 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar",
+                "sha1": "259f1dbddb921e27e01b32458d6f584eb8bba13a",
+                "size": 7088,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.2.1",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar",
+                "sha1": "259f1dbddb921e27e01b32458d6f584eb8bba13a",
+                "size": 7088,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar"
+            },
+            "classifiers": {
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar",
+                    "sha1": "759c2fd9cc5c6ce0b5b7af77ac8200483b7fb660",
+                    "size": 41962,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.2.1",
+        "natives": {
+            "osx": "natives-macos"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar",
+                "sha1": "259f1dbddb921e27e01b32458d6f584eb8bba13a",
+                "size": 7088,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-javadoc.jar",
+                    "sha1": "0a85d995178cdab6b94d9a172dd9e7d2a0d70cfb",
+                    "size": 368913,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar",
+                    "sha1": "4ad49108397322596d7b85c2c687e5de6ee52157",
+                    "size": 38192,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar",
+                    "sha1": "759c2fd9cc5c6ce0b5b7af77ac8200483b7fb660",
+                    "size": 41962,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar",
+                    "sha1": "85750d2ca022852e15f58c0b94b3d1d4e7f0ba52",
+                    "size": 207577,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-sources.jar",
+                    "sha1": "c375699fd794c4c87d935e0f9a84e7d80d0de77e",
+                    "size": 5034,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.2.1",
+        "natives": {
+            "osx": "natives-macos"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    }
+]

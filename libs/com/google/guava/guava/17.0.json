@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/google/guava/guava/17.0/guava-17.0.jar",
+                "sha1": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
+                "size": 2243036,
+                "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar"
+            }
+        },
+        "name": "com.google.guava:guava:17.0"
+    }
+]

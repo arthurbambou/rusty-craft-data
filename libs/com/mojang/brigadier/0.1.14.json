@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/brigadier/0.1.14/brigadier-0.1.14.jar",
+                "sha1": "0c12e577dcffc2f6dd9581e73fb974032107ba29",
+                "size": 59744,
+                "url": "https://libraries.minecraft.net/com/mojang/brigadier/0.1.14/brigadier-0.1.14.jar"
+            }
+        },
+        "name": "com.mojang:brigadier:0.1.14"
+    }
+]

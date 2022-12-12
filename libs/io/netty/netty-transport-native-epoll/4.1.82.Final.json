@@ -1,0 +1,40 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar",
+                "sha1": "476409d6255001ca53a55f65b01c13822f8dc93a",
+                "size": 39489,
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar"
+            }
+        },
+        "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-aarch_64",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar",
+                "sha1": "c7350a71920f3ae9142945e25fed4846cce53374",
+                "size": 37922,
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar"
+            }
+        },
+        "name": "io.netty:netty-transport-native-epoll:4.1.82.Final:linux-x86_64",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    }
+]

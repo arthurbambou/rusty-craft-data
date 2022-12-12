@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "java3d/vecmath/1.5.2/vecmath-1.5.2.jar",
+                "sha1": "79846ba34cbd89e2422d74d53752f993dcc2ccaf",
+                "size": 318956,
+                "url": "https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+            }
+        },
+        "name": "java3d:vecmath:1.5.2"
+    }
+]

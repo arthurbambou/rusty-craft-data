@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "tv/twitch/twitch/6.5/twitch-6.5.jar",
+                "sha1": "320a2dfd18513a5f41b4e75729df684488cbd925",
+                "size": 55977,
+                "url": "https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5.jar"
+            }
+        },
+        "name": "tv.twitch:twitch:6.5"
+    }
+]

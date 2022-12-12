@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang.jar",
+                "sha1": "ba787e741efdc425fc5d2ea654b57c15fba27efa",
+                "size": 522306,
+                "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang.jar"
+            }
+        },
+        "name": "it.unimi.dsi:fastutil:7.0.12_mojang"
+    }
+]

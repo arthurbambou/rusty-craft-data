@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
+                "sha1": "e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada",
+                "size": 780321,
+                "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar"
+            }
+        },
+        "name": "org.apache.httpcomponents:httpclient:4.5.13"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+                "sha1": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+                "size": 108161,
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar"
+            }
+        },
+        "name": "org.apache.logging.log4j:log4j-api:2.0-beta9"
+    }
+]

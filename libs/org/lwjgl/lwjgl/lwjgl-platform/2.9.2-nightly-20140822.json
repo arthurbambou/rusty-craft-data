@@ -1,0 +1,45 @@
+[
+    {
+        "downloads": {
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-linux.jar",
+                    "sha1": "d898a33b5d0a6ef3fed3a4ead506566dce6720a5",
+                    "size": 578539,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-linux.jar"
+                },
+                "natives-osx": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-osx.jar",
+                    "sha1": "79f5ce2fea02e77fe47a3c745219167a542121d7",
+                    "size": 468116,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-osx.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-windows.jar",
+                    "sha1": "78b2a55ce4dc29c6b3ec4df8ca165eba05f9b341",
+                    "size": 613680,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-windows.jar"
+                }
+            }
+        },
+        "extract": {
+            "exclude": [
+                "META-INF/"
+            ]
+        },
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-osx",
+            "windows": "natives-windows"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
+                "sha1": "054986e962b88d8660ae4566475658469595ef58",
+                "size": 214592,
+                "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar"
+            }
+        },
+        "name": "org.ow2.asm:asm-all:4.1"
+    }
+]

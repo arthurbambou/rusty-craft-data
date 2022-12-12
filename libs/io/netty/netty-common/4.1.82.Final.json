@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar",
+                "sha1": "022d148e85c3f5ebdacc0ce1f5aabb1d420f73f3",
+                "size": 653880,
+                "url": "https://libraries.minecraft.net/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-common:4.1.82.Final"
+    }
+]

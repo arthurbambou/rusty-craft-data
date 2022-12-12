@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+                "sha1": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+                "size": 78175,
+                "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+            }
+        },
+        "name": "net.sf.jopt-simple:jopt-simple:5.0.3"
+    }
+]

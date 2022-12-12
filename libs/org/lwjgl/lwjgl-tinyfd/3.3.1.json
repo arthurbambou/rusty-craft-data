@@ -1,0 +1,144 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+                "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                "size": 6767,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-linux.jar",
+                "sha1": "a35110b9471bea8cde826ab297550ee8c22f5035",
+                "size": 45389,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-linux.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-linux",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos.jar",
+                "sha1": "78641a0fa5e9afa714adfdd152c357930c97a1ce",
+                "size": 44821,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar",
+                "sha1": "972ecc17bad3571e81162153077b4d47b7b9eaa9",
+                "size": 41380,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos-arm64",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+                "sha1": "a5d830475ec0958d9fdba1559efa99aef211e6ff",
+                "size": 127930,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-x86.jar",
+                "sha1": "842eedd876fae354abc308c98a263f6bbc9e8a4d",
+                "size": 110042,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-x86.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-x86",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+                "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                "size": 6767,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-linux.jar",
+                    "sha1": "a35110b9471bea8cde826ab297550ee8c22f5035",
+                    "size": 45389,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos.jar",
+                    "sha1": "78641a0fa5e9afa714adfdd152c357930c97a1ce",
+                    "size": 44821,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+                    "sha1": "a5d830475ec0958d9fdba1559efa99aef211e6ff",
+                    "size": 127930,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-tinyfd:3.3.1",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

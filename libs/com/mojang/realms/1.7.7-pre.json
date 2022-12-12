@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/realms/1.7.7-pre/realms-1.7.7-pre.jar",
+                "sha1": "6d73818640b8ac2cba12f2bcca40701c0769b6f9",
+                "size": 513125,
+                "url": "https://libraries.minecraft.net/com/mojang/realms/1.7.7-pre/realms-1.7.7-pre.jar"
+            }
+        },
+        "name": "com.mojang:realms:1.7.7-pre"
+    }
+]

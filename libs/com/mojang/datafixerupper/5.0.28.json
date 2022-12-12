@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar",
+                "sha1": "e2157e236e529aff80a5fc3ccb506e56d46b130b",
+                "size": 684966,
+                "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar"
+            }
+        },
+        "name": "com.mojang:datafixerupper:5.0.28"
+    }
+]

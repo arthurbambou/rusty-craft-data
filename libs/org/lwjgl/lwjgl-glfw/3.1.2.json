@@ -1,0 +1,55 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2.jar",
+                "sha1": "bc0617451b3a87e7d12a9afed68402a2b3841ad4",
+                "size": 97080,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.2"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2.jar",
+                "sha1": "bc0617451b3a87e7d12a9afed68402a2b3841ad4",
+                "size": 97080,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-linux.jar",
+                    "sha1": "03ee9ea3d30b7bfc2e4900ba8de74d145a47a44d",
+                    "size": 61020,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-macos.jar",
+                    "sha1": "fbe42a1ccc7a9106bbf06b420aa8e96656ccf252",
+                    "size": 44031,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-windows.jar",
+                    "sha1": "987e3151840ee1ed028f242dfd0894ceb0ab1073",
+                    "size": 228364,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-sources.jar",
+                    "sha1": "df0c17ead04a7fec7efa1ada00d2ba4a274da7b7",
+                    "size": 82232,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.2/lwjgl-glfw-3.1.2-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.2",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

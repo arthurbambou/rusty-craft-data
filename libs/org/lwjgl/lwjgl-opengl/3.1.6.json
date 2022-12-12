@@ -1,0 +1,134 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar",
+                "sha1": "964a2332ab3b396bcf67f12b8b93d39c79c978c2",
+                "size": 821814,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.1.6",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar",
+                "sha1": "964a2332ab3b396bcf67f12b8b93d39c79c978c2",
+                "size": 821814,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-javadoc.jar",
+                    "sha1": "9a46b800943f2003b3796d00cfed94f5bc42bb21",
+                    "size": 2950022,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-linux.jar",
+                    "sha1": "ab462db70f7ea7de1b6a492eeb04ba0f08a80c0e",
+                    "size": 91985,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-macos.jar",
+                    "sha1": "179700557bc5deb8ee0c92aa0786ede206cb3dff",
+                    "size": 46527,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-windows.jar",
+                    "sha1": "505ff142070375c86695445a7c593a727af47964",
+                    "size": 175961,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-sources.jar",
+                    "sha1": "8640d58796d0c7fe3749692ee9e6b2c7b40a1042",
+                    "size": 1064334,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.1.6",
+        "natives": {
+            "linux": "natives-linux"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar",
+                "sha1": "964a2332ab3b396bcf67f12b8b93d39c79c978c2",
+                "size": 821814,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.1.6"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar",
+                "sha1": "964a2332ab3b396bcf67f12b8b93d39c79c978c2",
+                "size": 821814,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-javadoc.jar",
+                    "sha1": "9a46b800943f2003b3796d00cfed94f5bc42bb21",
+                    "size": 2950022,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-linux.jar",
+                    "sha1": "ab462db70f7ea7de1b6a492eeb04ba0f08a80c0e",
+                    "size": 91985,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-macos.jar",
+                    "sha1": "179700557bc5deb8ee0c92aa0786ede206cb3dff",
+                    "size": 46527,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-windows.jar",
+                    "sha1": "505ff142070375c86695445a7c593a727af47964",
+                    "size": 175961,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-sources.jar",
+                    "sha1": "8640d58796d0c7fe3749692ee9e6b2c7b40a1042",
+                    "size": 1064334,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.1.6",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

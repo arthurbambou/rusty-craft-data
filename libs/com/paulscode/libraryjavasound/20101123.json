@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+                "sha1": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+                "size": 21679,
+                "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar"
+            }
+        },
+        "name": "com.paulscode:libraryjavasound:20101123"
+    }
+]

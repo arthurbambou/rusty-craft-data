@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+                "sha1": "5c685c5ffa94c4cd39496c7184c1d122e515ecef",
+                "size": 964,
+                "url": "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar"
+            }
+        },
+        "name": "com.mojang:blocklist:1.0.10"
+    }
+]

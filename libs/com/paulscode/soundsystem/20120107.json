@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+                "sha1": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+                "size": 65020,
+                "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar"
+            }
+        },
+        "name": "com.paulscode:soundsystem:20120107"
+    }
+]

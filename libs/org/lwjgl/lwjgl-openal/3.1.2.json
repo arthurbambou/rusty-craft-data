@@ -1,0 +1,55 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2.jar",
+                "sha1": "a6e7db83eac633c7bd4250b9938ed3245c83aa3e",
+                "size": 74334,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.2"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2.jar",
+                "sha1": "a6e7db83eac633c7bd4250b9938ed3245c83aa3e",
+                "size": 74334,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-linux.jar",
+                    "sha1": "db382c4e3c72e1c8d23f5cf9e944cc45f3dbc7ec",
+                    "size": 489101,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-macos.jar",
+                    "sha1": "90bfbcf111c6c1d0c6f6de9313882900cf09dba2",
+                    "size": 406200,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-windows.jar",
+                    "sha1": "c0781595de8dbc3df03f7abae00e86e6a8c2a32b",
+                    "size": 1060873,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-sources.jar",
+                    "sha1": "2b3e8a0592d8befa9dbbaf919e64a0849c2c7716",
+                    "size": 73353,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.2/lwjgl-openal-3.1.2-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.2",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

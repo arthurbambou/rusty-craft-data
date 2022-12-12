@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/javabridge/1.1.23/javabridge-1.1.23.jar",
+                "sha1": "3e5084d916ba393dfd82928ec97663aeb10b2e2c",
+                "size": 6014,
+                "url": "https://libraries.minecraft.net/com/mojang/javabridge/1.1.23/javabridge-1.1.23.jar"
+            }
+        },
+        "name": "com.mojang:javabridge:1.1.23"
+    }
+]

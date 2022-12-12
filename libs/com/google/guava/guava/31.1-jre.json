@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+                "sha1": "60458f877d055d0c9114d9e1a2efb737b4bc282c",
+                "size": 2959479,
+                "url": "https://libraries.minecraft.net/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar"
+            }
+        },
+        "name": "com.google.guava:guava:31.1-jre"
+    }
+]

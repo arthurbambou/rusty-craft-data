@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+                "sha1": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+                "size": 284184,
+                "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+            }
+        },
+        "name": "commons-codec:commons-codec:1.10"
+    }
+]

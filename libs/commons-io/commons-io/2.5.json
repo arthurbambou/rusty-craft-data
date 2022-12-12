@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "commons-io/commons-io/2.5/commons-io-2.5.jar",
+                "sha1": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+                "size": 208700,
+                "url": "https://libraries.minecraft.net/commons-io/commons-io/2.5/commons-io-2.5.jar"
+            }
+        },
+        "name": "commons-io:commons-io:2.5"
+    }
+]

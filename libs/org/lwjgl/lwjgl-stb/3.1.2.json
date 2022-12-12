@@ -1,0 +1,55 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2.jar",
+                "sha1": "039f1ae05903c4b985a746cfd0ca1808d2a719e7",
+                "size": 83009,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-stb:3.1.2"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2.jar",
+                "sha1": "039f1ae05903c4b985a746cfd0ca1808d2a719e7",
+                "size": 83009,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-linux.jar",
+                    "sha1": "8c87e9677fe33f356b714a0742fe66b8164c391f",
+                    "size": 184990,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-macos.jar",
+                    "sha1": "bf5cbd8c00918f1c4d6cefb1f0768a47813f8b08",
+                    "size": 166644,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-windows.jar",
+                    "sha1": "376b97a7cabe1ff5f46ff9f30da9361f25ba529f",
+                    "size": 453942,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-sources.jar",
+                    "sha1": "fe0887fa02d06a6260c673cb62e4a0714c4a8feb",
+                    "size": 79126,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.1.2/lwjgl-stb-3.1.2-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-stb:3.1.2",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

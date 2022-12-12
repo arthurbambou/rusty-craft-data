@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/github/oshi/oshi-core/5.8.2/oshi-core-5.8.2.jar",
+                "sha1": "3a4c610d5991654009653e55b3204065441e2f0d",
+                "size": 879038,
+                "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/5.8.2/oshi-core-5.8.2.jar"
+            }
+        },
+        "name": "com.github.oshi:oshi-core:5.8.2"
+    }
+]

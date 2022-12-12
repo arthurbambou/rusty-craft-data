@@ -1,0 +1,134 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar",
+                "sha1": "7fe6af9a51891c9d22ee93c4241c237b4f3a5151",
+                "size": 114101,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.6",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar",
+                "sha1": "7fe6af9a51891c9d22ee93c4241c237b4f3a5151",
+                "size": 114101,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-javadoc.jar",
+                    "sha1": "e910128f1ae2afadc4ed69549c589e188a70ac8c",
+                    "size": 663310,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-linux.jar",
+                    "sha1": "735c865f3ad9c064569e0e0083570e47c4814f02",
+                    "size": 143599,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-macos.jar",
+                    "sha1": "5f32c8924b07538c48f7854b25ac1d6bcbdec584",
+                    "size": 59991,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-windows.jar",
+                    "sha1": "7203889aebc265a9600ab4d5a8df8d03c0a1925c",
+                    "size": 253583,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-sources.jar",
+                    "sha1": "af0a105598ed4958e47322663d97cd40e1aa2f96",
+                    "size": 99776,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.6",
+        "natives": {
+            "linux": "natives-linux"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar",
+                "sha1": "7fe6af9a51891c9d22ee93c4241c237b4f3a5151",
+                "size": 114101,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.6"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar",
+                "sha1": "7fe6af9a51891c9d22ee93c4241c237b4f3a5151",
+                "size": 114101,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-javadoc.jar",
+                    "sha1": "e910128f1ae2afadc4ed69549c589e188a70ac8c",
+                    "size": 663310,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-linux.jar",
+                    "sha1": "735c865f3ad9c064569e0e0083570e47c4814f02",
+                    "size": 143599,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-macos.jar",
+                    "sha1": "5f32c8924b07538c48f7854b25ac1d6bcbdec584",
+                    "size": 59991,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-windows.jar",
+                    "sha1": "7203889aebc265a9600ab4d5a8df8d03c0a1925c",
+                    "size": 253583,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-sources.jar",
+                    "sha1": "af0a105598ed4958e47322663d97cd40e1aa2f96",
+                    "size": 99776,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-glfw:3.1.6",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

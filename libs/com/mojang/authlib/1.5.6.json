@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/authlib/1.5.6/authlib-1.5.6.jar",
+                "sha1": "8e55bce5f47f1b3ffc43aa72720b28e376182934",
+                "size": 59548,
+                "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.6/authlib-1.5.6.jar"
+            }
+        },
+        "name": "com.mojang:authlib:1.5.6"
+    }
+]

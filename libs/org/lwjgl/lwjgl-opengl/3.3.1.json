@@ -1,0 +1,144 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+                "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                "size": 921563,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-linux.jar",
+                "sha1": "ab9ab6fde3743e3550fa5d46d785ecb45b047d99",
+                "size": 79125,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-linux.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-linux",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos.jar",
+                "sha1": "a0d12697ea019a7362eff26475b0531340e876a6",
+                "size": 40709,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-macos",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos-arm64.jar",
+                "sha1": "eafe34b871d966292e8db0f1f3d6b8b110d4e91d",
+                "size": 41665,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos-arm64.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-macos-arm64",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "osx"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar",
+                "sha1": "c1807e9bd571402787d7e37e3029776ae2513bb8",
+                "size": 100205,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-x86.jar",
+                "sha1": "deef3eb9b178ff2ff3ce893cc72ae741c3a17974",
+                "size": 87463,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-x86.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-x86",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "windows"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+                "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                "size": 921563,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-linux.jar",
+                    "sha1": "ab9ab6fde3743e3550fa5d46d785ecb45b047d99",
+                    "size": 79125,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos.jar",
+                    "sha1": "a0d12697ea019a7362eff26475b0531340e876a6",
+                    "size": 40709,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar",
+                    "sha1": "c1807e9bd571402787d7e37e3029776ae2513bb8",
+                    "size": 100205,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

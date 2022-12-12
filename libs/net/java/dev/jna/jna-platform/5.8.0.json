@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "net/java/dev/jna/jna-platform/5.8.0/jna-platform-5.8.0.jar",
+                "sha1": "2f12f6d7f7652270d13624cef1b82d8cd9a5398e",
+                "size": 1338206,
+                "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.8.0/jna-platform-5.8.0.jar"
+            }
+        },
+        "name": "net.java.dev.jna:jna-platform:5.8.0"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar",
+                "sha1": "7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d",
+                "size": 328324,
+                "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar"
+            }
+        },
+        "name": "org.apache.httpcomponents:httpcore:4.4.15"
+    }
+]

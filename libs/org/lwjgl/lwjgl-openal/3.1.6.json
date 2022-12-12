@@ -1,0 +1,134 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar",
+                "sha1": "c03253f13fff766ec3fc2e8d0924964d0f09e886",
+                "size": 79062,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.6",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar",
+                "sha1": "c03253f13fff766ec3fc2e8d0924964d0f09e886",
+                "size": 79062,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-javadoc.jar",
+                    "sha1": "186f517e9724aae0f2f1e5517e3a19182ef0a1e3",
+                    "size": 592665,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-linux.jar",
+                    "sha1": "aa892685b3cb606c256bfec5e359e58a15911c06",
+                    "size": 490251,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-macos.jar",
+                    "sha1": "e0fffeb51fae92ec73de96eb728155eb9ab197b9",
+                    "size": 410765,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-windows.jar",
+                    "sha1": "351960d5ebb1678ef99016af9e7ca97881af9288",
+                    "size": 1072703,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-sources.jar",
+                    "sha1": "d1125b7de9d610b73f7769394f7175b22aea5525",
+                    "size": 76120,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.6",
+        "natives": {
+            "linux": "natives-linux"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar",
+                "sha1": "c03253f13fff766ec3fc2e8d0924964d0f09e886",
+                "size": 79062,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.6"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar",
+                "sha1": "c03253f13fff766ec3fc2e8d0924964d0f09e886",
+                "size": 79062,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-javadoc.jar",
+                    "sha1": "186f517e9724aae0f2f1e5517e3a19182ef0a1e3",
+                    "size": 592665,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-linux.jar",
+                    "sha1": "aa892685b3cb606c256bfec5e359e58a15911c06",
+                    "size": 490251,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-macos.jar",
+                    "sha1": "e0fffeb51fae92ec73de96eb728155eb9ab197b9",
+                    "size": 410765,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-windows.jar",
+                    "sha1": "351960d5ebb1678ef99016af9e7ca97881af9288",
+                    "size": 1072703,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-sources.jar",
+                    "sha1": "d1125b7de9d610b73f7769394f7175b22aea5525",
+                    "size": 76120,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-openal:3.1.6",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

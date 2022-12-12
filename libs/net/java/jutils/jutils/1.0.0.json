@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+                "sha1": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+                "size": 7508,
+                "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar"
+            }
+        },
+        "name": "net.java.jutils:jutils:1.0.0"
+    }
+]

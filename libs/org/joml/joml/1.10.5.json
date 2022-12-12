@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/joml/joml/1.10.5/joml-1.10.5.jar",
+                "sha1": "22566d58af70ad3d72308bab63b8339906deb649",
+                "size": 712082,
+                "url": "https://libraries.minecraft.net/org/joml/joml/1.10.5/joml-1.10.5.jar"
+            }
+        },
+        "name": "org.joml:joml:1.10.5"
+    }
+]

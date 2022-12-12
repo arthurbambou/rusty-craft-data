@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/realms/1.9.2/realms-1.9.2.jar",
+                "sha1": "5e3a26cc69251f273cf46fadc6d73c7cd372d3dd",
+                "size": 1575798,
+                "url": "https://libraries.minecraft.net/com/mojang/realms/1.9.2/realms-1.9.2.jar"
+            }
+        },
+        "name": "com.mojang:realms:1.9.2"
+    }
+]

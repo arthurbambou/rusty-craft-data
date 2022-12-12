@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/github/oshi/oshi-core/3.4.2/oshi-core-3.4.2.jar",
+                "sha1": "18dfa6fad54d8cebed5600a67aefa8c6601ebd77",
+                "size": 344873,
+                "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/3.4.2/oshi-core-3.4.2.jar"
+            }
+        },
+        "name": "com.github.oshi:oshi-core:3.4.2"
+    }
+]

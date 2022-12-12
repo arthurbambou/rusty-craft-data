@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "argo/argo/2.25_fixed/argo-2.25_fixed.jar",
+                "sha1": "751761ce15a3e3aaf3fc75b9f013ff8f7b88a585",
+                "size": 74953,
+                "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar"
+            }
+        },
+        "name": "argo:argo:2.25_fixed"
+    }
+]

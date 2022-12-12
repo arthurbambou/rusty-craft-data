@@ -1,0 +1,53 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/text2speech/1.10.1/text2speech-1.10.1.jar",
+                "sha1": "9fab79a2822f493b194c81f5c92d3466abc28f27",
+                "size": 10810,
+                "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.1/text2speech-1.10.1.jar"
+            }
+        },
+        "name": "com.mojang:text2speech:1.10.1"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "com/mojang/text2speech/1.10.1/text2speech-1.10.1.jar",
+                "sha1": "9fab79a2822f493b194c81f5c92d3466abc28f27",
+                "size": 10810,
+                "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.1/text2speech-1.10.1.jar"
+            },
+            "classifiers": {
+                "natives-linux": {
+                    "path": "com/mojang/text2speech/1.10.1/text2speech-1.10.1-natives-linux.jar",
+                    "sha1": "5ceb9acf93ad3e3f2c1487d9ee241804d2d0b65d",
+                    "size": 7833,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.1/text2speech-1.10.1-natives-linux.jar"
+                },
+                "natives-windows": {
+                    "path": "com/mojang/text2speech/1.10.1/text2speech-1.10.1-natives-windows.jar",
+                    "sha1": "168d84077b984900edf52e260b7ca1ef57a3e56a",
+                    "size": 81217,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.1/text2speech-1.10.1-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "com/mojang/text2speech/1.10.1/text2speech-1.10.1-sources.jar",
+                    "sha1": "a54cb8bc1af0631322ae65c8df98f7d284546f21",
+                    "size": 4514,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.1/text2speech-1.10.1-sources.jar"
+                }
+            }
+        },
+        "extract": {
+            "exclude": [
+                "META-INF/"
+            ]
+        },
+        "name": "com.mojang:text2speech:1.10.1",
+        "natives": {
+            "linux": "natives-linux",
+            "windows": "natives-windows"
+        }
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar",
+                "sha1": "807ee19f8ce08f7a55ed4939b2f34d1ded6b39c9",
+                "size": 40775,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-jemalloc:3.1.6",
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar",
+                "sha1": "807ee19f8ce08f7a55ed4939b2f34d1ded6b39c9",
+                "size": 40775,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-javadoc.jar",
+                    "sha1": "2ddb4e3ab94af4383d317ad87bfb489662e566ac",
+                    "size": 457424,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-linux.jar",
+                    "sha1": "796980a5c3762f80eddb5c8340f62feba168f24d",
+                    "size": 131212,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-macos.jar",
+                    "sha1": "fbb23c5d095dfcd56a6bee2c4409c7cd37dd9a6f",
+                    "size": 96831,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-windows.jar",
+                    "sha1": "f40c0b362969124a32019b3ee7191e438fdc3901",
+                    "size": 198001,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-sources.jar",
+                    "sha1": "5ba6a6563e3f8e9fa17ee67432aa29a538285b79",
+                    "size": 32346,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-jemalloc:3.1.6",
+        "natives": {
+            "linux": "natives-linux"
+        },
+        "rules": [
+            {
+                "action": "allow",
+                "os": {
+                    "name": "linux"
+                }
+            }
+        ]
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar",
+                "sha1": "807ee19f8ce08f7a55ed4939b2f34d1ded6b39c9",
+                "size": 40775,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar"
+            }
+        },
+        "name": "org.lwjgl:lwjgl-jemalloc:3.1.6"
+    },
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar",
+                "sha1": "807ee19f8ce08f7a55ed4939b2f34d1ded6b39c9",
+                "size": 40775,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar"
+            },
+            "classifiers": {
+                "javadoc": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-javadoc.jar",
+                    "sha1": "2ddb4e3ab94af4383d317ad87bfb489662e566ac",
+                    "size": 457424,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-javadoc.jar"
+                },
+                "natives-linux": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-linux.jar",
+                    "sha1": "796980a5c3762f80eddb5c8340f62feba168f24d",
+                    "size": 131212,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-linux.jar"
+                },
+                "natives-macos": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-macos.jar",
+                    "sha1": "fbb23c5d095dfcd56a6bee2c4409c7cd37dd9a6f",
+                    "size": 96831,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-macos.jar"
+                },
+                "natives-windows": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-windows.jar",
+                    "sha1": "f40c0b362969124a32019b3ee7191e438fdc3901",
+                    "size": 198001,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-windows.jar"
+                },
+                "sources": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-sources.jar",
+                    "sha1": "5ba6a6563e3f8e9fa17ee67432aa29a538285b79",
+                    "size": 32346,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-sources.jar"
+                }
+            }
+        },
+        "name": "org.lwjgl:lwjgl-jemalloc:3.1.6",
+        "natives": {
+            "linux": "natives-linux",
+            "osx": "natives-macos",
+            "windows": "natives-windows"
+        }
+    }
+]

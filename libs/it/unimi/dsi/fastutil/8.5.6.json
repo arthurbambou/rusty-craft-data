@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar",
+                "sha1": "76f95700418a68fbc4ac050525261f05dc681ca1",
+                "size": 23565248,
+                "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar"
+            }
+        },
+        "name": "it.unimi.dsi:fastutil:8.5.6"
+    }
+]

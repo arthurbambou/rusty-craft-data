@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
+                "sha1": "cb208278274bf12ebdb56c61bd7407e6f774d65a",
+                "size": 1091208,
+                "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
+            }
+        },
+        "name": "net.java.dev.jna:jna:4.4.0"
+    }
+]

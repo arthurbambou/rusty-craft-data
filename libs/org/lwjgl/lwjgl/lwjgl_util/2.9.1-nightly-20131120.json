@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.1-nightly-20131120/lwjgl_util-2.9.1-nightly-20131120.jar",
+                "sha1": "cd74579c20c3f538e82529e8f9bfcc9295befe92",
+                "size": 173887,
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1-nightly-20131120/lwjgl_util-2.9.1-nightly-20131120.jar"
+            }
+        },
+        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131120"
+    }
+]

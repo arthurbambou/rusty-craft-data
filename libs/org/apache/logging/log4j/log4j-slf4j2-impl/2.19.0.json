@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar",
+                "sha1": "5c04bfdd63ce9dceb2e284b81e96b6a70010ee10",
+                "size": 27721,
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar"
+            }
+        },
+        "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0"
+    }
+]

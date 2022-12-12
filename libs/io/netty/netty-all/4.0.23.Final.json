@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
+                "sha1": "0294104aaf1781d6a56a07d561e792c5d0c95f45",
+                "size": 1779991,
+                "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar"
+            }
+        },
+        "name": "io.netty:netty-all:4.0.23.Final"
+    }
+]

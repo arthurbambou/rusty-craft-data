@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
+                "sha1": "b1e93a735caea94f503e95e6fe79bf9cdc1e985d",
+                "size": 1866196,
+                "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar"
+            }
+        },
+        "name": "net.java.dev.jna:jna:5.12.1"
+    }
+]

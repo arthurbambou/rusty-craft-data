@@ -1,0 +1,13 @@
+[
+    {
+        "downloads": {
+            "artifact": {
+                "path": "org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+                "sha1": "90a3822c38ec8c996e84c16a3477ef632cbc87a3",
+                "size": 412739,
+                "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+            }
+        },
+        "name": "org.apache.commons:commons-lang3:3.3.2"
+    }
+]
